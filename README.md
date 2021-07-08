@@ -1,5 +1,7 @@
 # Pima-diabetes prediction 💉
 
+![image](https://drive.google.com/uc?export=view&id=1HHiisNmsBIlk7D1kPnYTr4N5Xl2wKx7O)
+
 [link for the presentation](https://drive.google.com/file/d/1M_7U--7h1u55vca3boF1HnhnKrhpDeJg/view?usp=sharing)
 
 ## **Project motivation**
