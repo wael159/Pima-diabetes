@@ -1,4 +1,4 @@
-# Pima-diabetes prediction
+# Pima-diabetes prediction 💉
 
 ## **Project motivation**
 
@@ -10,13 +10,13 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ### **Data Description**
 The datasets consists of several medical predictor variables and one target variable, Outcome (1 - diabetes, 0 = no diabetes)
 
-## **Analaysis Plan**
+## **Analaysis Plan** 📈
 
 Here we want to predict whether ot not the patient has diabetes. the target will be 1 or 0 , so it is a supervised binary classification problem. the follwing steps will be followed:
 
 
-1.   Cleaninng Data
-2.   Explarotaory data analysis to discover an intitial insights.
+1.   Cleaninng Data 🧹
+2.   Explarotaory data analysis to discover an intitial insights.🔍
 3.   Select the suitable algorithm (KNN, logestic regression, Tree classification,svm)
 4.   Fit the data to the model, fine tune, evaluate and validate.
 
