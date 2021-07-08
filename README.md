@@ -1,5 +1,7 @@
 # Pima-diabetes prediction 💉
 
+[link for the presentation](https://drive.google.com/file/d/1M_7U--7h1u55vca3boF1HnhnKrhpDeJg/view?usp=sharing)
+
 ## **Project motivation**
 
 In these project we want to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
